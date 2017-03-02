@@ -1,6 +1,6 @@
 Package.describe({
     summary: "HighCharts for Meteor, with an easy to use helper to get you started!",
-    version: "5.0.7.1",
+    version: "5.0.7-rc2",
     documentation: 'README.md',
     git: "https://github.com/daoli/highcharts.git",
     name: "daoli:highcharts"

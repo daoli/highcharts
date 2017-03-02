@@ -1,6 +1,6 @@
 ## Meteor Wrapper for HighCharts with a helper
 
-This is similar to maazali:highcharts, except that the latest Highcharts is included and it supports client side exports.
+This is similar to maazalik:highcharts, except that the latest Highcharts is included and it supports client side exports.
 
 Add to your Meteor app
 
